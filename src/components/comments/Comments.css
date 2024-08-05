@@ -1,0 +1,16 @@
+.happy {
+    font-family: sans-serif;
+font-size: 48px;
+font-weight: 900;
+line-height: 57.6px;
+text-align: left;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.wrapper-comment {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,30 @@
+.arrivals {
+  font-family: sans-serif;
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 57.6px;
+  margin-left: 380px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.wrapper-easy {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.easy {
+    width: 295px;
+}
+.view-al {
+  width: Fixed (218px) px;
+  height: Fixed (52px) px;
+  top: 2285px;
+  left: 611px;
+  padding: 16px 54px 16px 54px;
+  gap: 12px;
+  border-radius: 62px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin-bottom: 50px;
+  margin-left: 530px;
+}

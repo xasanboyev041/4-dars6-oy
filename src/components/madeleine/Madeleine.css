@@ -1,0 +1,21 @@
+.azos {
+  background-color: rgba(240, 240, 240, 1);
+  border-radius: 40px;
+}
+.azos h3 {
+  font-family: sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.6px;
+  margin-left: 260px;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+.view {
+  padding-bottom: 50px;
+  margin-left: 40px;
+  gap: 20px;
+}
+.view img {
+  padding: 10px;
+}
